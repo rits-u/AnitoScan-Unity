@@ -5,8 +5,9 @@ public class BenchmarkFPS : MonoBehaviour
     private float elapsedTime = 0f;
     private int frameCount = 0;
 
-    public float delayStart;
-    public float benchmarkDuration = 30f;
+    public float delayStart = 7f;
+    public float benchmarkDuration = 20f;
+
     public bool startBenchmark = false;
 
     private void Start()
