@@ -249,8 +249,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a089b0364642f3540b843232c284815f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BenchmarkFPS
-  delayStart: 10
-  benchmarkDuration: 30
+  delayStart: 7
+  benchmarkDuration: 20
   startBenchmark: 0
 --- !u!4 &1916751251
 Transform:
